@@ -8,7 +8,7 @@ It will provide detailed statistics on return to player (RTP) and how often
 1000x hits take
 """
 
-num_games = 15000000
+num_games = 2000000
 bet = 1000
 rtp = 0
 
